@@ -77,8 +77,7 @@ https://github.com/shotaoonuki/task-manager
 
 ## 📫 Contact
 - **GitHub:** https://github.com/shotaoonuki  
-- **Email:**（必要なら追加してね）
-
+- **Email:** daguansho@gmail.com
 ---
 
 ✍️ *継続して学び、作り、改善し続けるエンジニアです。*  
